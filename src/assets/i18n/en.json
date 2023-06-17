@@ -1,0 +1,325 @@
+{
+    "Header.home": "Home",
+    "Header.about": "About",
+    "Header.experience": "Experience",
+    "Header.projects": "Projects",
+    "Header.contact": "Contact",
+    "Header.cvBtn": "Resume",
+    "Header.cvName": "Azhar_Abbas_CV.pdf",
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description": "A passionate developer with <span class='underline'>4 years of experience</span> as an Android app and <span class='underline'>2+ yesrs of experience</span> as a Backend developer. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>NodeJS and ExpressJS</span> and sometimes in <span class='underline'>Angular</span> applying good practices and development standards.",
+    "Banner.ActionBtn": "Get in touch",
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "In my <span class='underline'>6 plus years as a developer</span>, I seek to train every day. Some of the technologies that I have worked on include (but are not limited to):"],
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [
+        {
+            "Tab": "Ideal Innovative Solutions",
+            "Title": "Backend and Android Application Developer",
+            "Date": "January 2021 - Present",
+            "Description": [
+                "Developed and maintained a web-based application using Angular, Node.js, and MongoDB, resulting in improved user experience and increased performance.",
+                "Developed Android applications using Java, XML, Node.js, and MongoDB",
+                "Designed and implemented Apollo GraphQL & RESTful APIs to support multiple applications, using Node.js and Express.",
+                "Implementation of continuous integration and daily backups."]
+        },
+        
+        {
+            "Tab": "Ingentive Technologies",
+            "Title": "Android Application Developer",
+            "Date": "Feburary 2015 - November 2019",
+            "Description": [
+                "Developed and maintained android applications using Java, XML, SQLite and RESTFul API's.",
+                "Coding of API requests with RxJS.",
+                "Improved website performance by optimizing images and implementing caching techniques."
+            ]
+        }
+    ],
+    "FeatureProjects.Title": "Projects",
+    "FeatureProjects.Label": "Featured Project",
+    "FeatureProjects.Projects": [
+        {
+            "Title": "Techbar Super Admin",
+            "URL":"https://admin.stg.techbar.com/",
+            "Description": "Techbar Super admin contains different modules like <span class='underline'>HR management system</span>, <span class='underline'> Employee Schedulers, Timesheet </span> and <span class='underline'>Financial system</span>.",
+            "imgs": [
+                "assets/images/techbar-admin/image1.PNG",
+                "assets/images/techbar-admin/image2.PNG",
+                "assets/images/techbar-admin/image3.PNG",
+                "assets/images/techbar-admin/image4.PNG",
+                "assets/images/techbar-admin/image5.PNG",
+                "assets/images/techbar-admin/image6.PNG"
+            ],
+            "Technologies": [
+                "Angular",
+                "NodeJS",
+                "MongoDB"
+            ]
+        },
+        {
+            "Title": "Techbar POS",
+            "URL":"https://pos.stg.techbar.com/",
+            "Description": "Techbar is a vast ERP software system which includes POS system for selling accessories, parts, devices, and repaired devices/phones.",
+            "imgs": [
+                "assets/images/techbar-pos/image1.PNG",
+                "assets/images/bbm/image2.png"
+            ],
+            "Technologies": [
+                "NodeJS",
+                "MongoDB"
+            ]
+        },
+        {
+            "Title": "Techbar Stack Overflow Community",
+            "URL":"https://pos.stg.techbar.com/",
+            "Description": "Techbar is a vast ERP software system which includes POS system for selling accessories, parts, devices, and repaired devices/phones.",
+            "imgs": [
+                "assets/images/soi/image1.png",
+                "assets/images/soi/image2.png",
+                "assets/images/soi/image3.png",
+                "assets/images/soi/image4.png"
+            ],
+            "Technologies": [
+                "NodeJS",
+                "PostgreSQL"
+            ]
+        },
+        {
+            "Title": "Techbar POS (Android)",
+            "URL":"https://pos.stg.techbar.com/",
+            "Description": "Techbar is a vast ERP software system which includes POS system for selling accessories, parts, devices, and repaired devices/phones.",
+            "imgs": [
+                "assets/images/techbar-pos/image1.PNG",
+                "assets/images/techbar-pos/image2.PNG",
+                "assets/images/techbar-pos/image3.PNG",
+                "assets/images/techbar-pos/image4.PNG",
+                "assets/images/techbar-pos/image5.PNG",
+                "assets/images/techbar-pos/image6.PNG",
+                "assets/images/techbar-pos/image7.PNG",
+                "assets/images/techbar-pos/image8.PNG",
+                "assets/images/techbar-pos/image9.PNG",
+                "assets/images/techbar-pos/image10.PNG"
+            ],
+            "Technologies": [
+                "Android",
+                "Java",
+                "XML",
+                "Apollo GraphQL API's"
+            ]
+        },
+        {
+            "Title": "Techbar Terminal (Android)",
+            "URL":"https://pos.stg.techbar.com/",
+            "Description": "Techbar is a vast ERP software system which includes POS system for selling accessories, parts, devices, and repaired devices/phones.",
+            "imgs": [
+                "assets/images/techbar-pos/image1.PNG",
+                "assets/images/bbm/image2.png"
+            ],
+            "Technologies": [
+                "Android",
+                "Java",
+                "XML",
+                "Apollo GraphQL API's"
+            ]
+        },
+        {
+            "Title": "Premier UK Business",
+            "URL":"https://play.google.com/store/apps/details?id=com.app.premierukbusiness",
+            "Description": "An app for clients of Premier UK Business to stay up to date on the latest news, deadlines & contact the team.",
+            "imgs": [
+                "assets/images/premier/image1.png",
+                "assets/images/premier/image2.png",
+                "assets/images/premier/image3.png"
+            ],
+            "Technologies": [
+                "Android",
+                "Java",
+                "XML",
+                "RESTFul API's"
+            ]
+        },
+        {
+            "Title": "Bacha Finder",
+            "URL":"https://play.google.com/store/apps/details?id=com.stech.missingchild",
+            "Description": "An Android application which searches for missing child by reporting a missing child case to helpline. Allows users to upload an image of the missing child or report any unattended children.",
+            "imgs": [
+                "assets/images/bacha-finder/image1.PNG",
+                "assets/images/bacha-finder/image2.PNG",
+                "assets/images/bacha-finder/image3.PNG"
+            ],
+            "Technologies": [
+                "Android",
+                "Java",
+                "XML",
+                "RESTFul API's"
+            ]
+        },
+        {
+            "Title": "Shop Note - Foodkeepr Grocery List",
+            "URL":"https://androidappsapk.co/detail-shopanion",
+            "Description": "Designed to help anyone easily track their groceries, reduce food waste and save themselves time and money.",
+            "imgs": [
+                "assets/images/shopenote/image1.PNG",
+                "assets/images/shopenote/image2.PNG",
+                "assets/images/shopenote/image3.PNG"
+            ],
+            "Technologies": [
+                "Android",
+                "Java",
+                "XML",
+                "RESTFul API's"
+            ]
+        },
+        {
+            "Title": "ISTSS - Conference",
+            "URL":"https://androidappsapk.co/detail-istss-conference/",
+            "Description": "International Society for Traumatic Stress Studies an android application is filled with details on sessions, time tables, traumas and information on the hotels in Dallas.",
+            "imgs": [
+                "assets/images/istss/image1.PNG",
+                "assets/images/istss/image2.PNG"
+            ],
+            "Technologies": [
+                "Android",
+                "Java",
+                "XML",
+                "RESTFul API's"
+            ]
+        },
+        {
+            "Title": "Etro Studies",
+            "URL":"https://cloudapks.com/app/com.ingentive.etrostudies/",
+            "Description": "An internet-based app that fetches data from JSON APIs on the runtime and display data according to the person logged-in & their roles assigned.",
+            "imgs": [
+                "assets/images/etro/image1.PNG",
+                "assets/images/etro/image2.PNG"
+            ],
+            "Technologies": [
+                "Android",
+                "Java",
+                "XML",
+                "RESTFul API's"
+            ]
+        },
+        {
+            "Title": "Etro Communication Tracker",
+            "URL":"https://play.google.com/store/apps/details?id=com.ingentive.etrocommunication_tracker",
+            "Description": "Etro Communication Tracker is an android app that Etro reps used for visiting investigators (doctors).",
+            "imgs": [
+                "assets/images/etro/image3.PNG"
+            ],
+            "Technologies": [
+                "Android",
+                "Java",
+                "XML",
+                "RESTFul API's"
+            ]
+        },
+        {
+            "Title": "Nahad House Safety Institute.org",
+            "URL":"https://cloudapks.com/app/com.ingentive.nahad/",
+            "Description": "This app provides Institute s Handbook for the Design & Specification of House assemblies, Institute White Papers, Marketing and Training resources and the full Glossary of Terms. The application itself is used by define set of experts with a complete admin panel and dashboard as a web solution.",
+            "imgs": [
+                "assets/images/nahad/image1.png",
+                "assets/images/nahad/image2.png",
+                "assets/images/nahad/image3.png",
+                "assets/images/nahad/image4.png",
+                "assets/images/nahad/image5.png",
+                "assets/images/nahad/image6.png",
+                "assets/images/nahad/image7.png",
+                "assets/images/nahad/image8.png"
+            ],
+            "Technologies": [
+                "Android",
+                "Java",
+                "XML",
+                "RESTFul API's"
+            ]
+        },
+        {
+            "Title": "Presidents Revealed",
+            "Description": "Presidents Revealed App contains detailed information for all Presidents of the United States. You can look for accurate information about US presidents",
+            "imgs": [
+                "assets/images/presidents/image1.png",
+                "assets/images/presidents/image2.png"
+            ],
+            "Technologies": [
+                "Android",
+                "Java",
+                "XML",
+                "RESTFul API's"
+            ]
+        },
+        {
+            "Title": "Speech to Text",
+            "URL":"https://apkpure.com/speech-to-text/cre8i.com.speechtotext",
+            "Description": "Specifically design for hearing impaired people, supporting multiple languages.",
+            "imgs": [
+                "assets/images/speach-to-text/image1.png"
+            ],
+            "Technologies": [
+                "Android",
+                "Java",
+                "XML",
+                "RESTFul API's"
+            ]
+        }
+    ],
+    "OtherProjects.Title": "More personal projects",
+    "OtherProjects.Projects": [
+        {
+            "Title": "Covid Tracker",
+            "Description": "Covid Tracker is a web app which is built using the 3rd Party Api integration. This app shows the records from worldwise and countrywise that shows the who much patient are suffer from covid who many died from covid and how many are recoverd from covid",
+            "ghLink": "https://github.com/mufeez1/carona19-tracker",
+            "demoLink": "http://carona19-by-muffeez.surge.sh/",
+            "Technologies": [
+                "Angular",
+                "RxJs",
+                "API",
+                "Bootstrap"
+            ]
+        },
+        {
+            "Title": "Lets Chat",
+            "Description": "A real-time chat application. Another fun side project :)",
+            "ghLink": "https://github.com/mufeez1/lets-chat",
+            "Technologies": [
+                "React",
+                "SASS",
+                "Socket.io",
+                "NodeJS",
+                "ExpressJS",
+                "Firebase"
+            ]
+        },
+        {
+            "Title": "Quiz App",
+            "Description": "A single page quiz app that has a minimal design, that has different level to attempt quizes.",
+            "ghLink": "https://github.com/mufeez1/quizapp",
+            "demoLink": "https://github.com/mufeez1/quizapp",
+            "Technologies": [
+                "React",
+                "SASS",
+                "TypeScript",
+                "API",
+                "3rd Party Library"
+            ]
+        },
+        {
+            "Title": "JWT Integration",
+            "Description": "JWT AUTHENTICATION IN NODE JS WITH POSTGREESQL DB",
+            "ghLink": "https://github.com/mufeez1/node-jwt",
+            "demoLink": "https://github.com/mufeez1/node-jwt",
+            "Technologies": [
+                "React",
+                "JWT",
+                "ExpressJS",
+                "POSTGREESQL"
+            ]
+        }
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+    "Contact.Btn": "Say Hello"
+}

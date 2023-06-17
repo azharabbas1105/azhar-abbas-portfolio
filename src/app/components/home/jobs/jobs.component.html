@@ -1,0 +1,45 @@
+<section class="section more-proyects" id='jobs'>
+  <div class="container">
+      <div class="section-box">
+          <div class="">
+              <h3 class="section-title">
+                  <span class='n-section-title'>02.</span> {{"Experience.Title" | translate}}
+              </h3>
+          </div>
+          <div class="mt-5">
+              <div class="row p-0">
+
+                  <div *ngFor='let job of "Experience.Jobs" | translate; let i = index'
+                    
+                   class="col-12 col-md-6 col-lg-6 col-xl-6 proyect-col" data-aos="fade-up" data-aos-duration="1000">
+                      <div class="more-proyect-box">
+                          <div class="row w-100 text-left m-0 p-0">
+                              <div class="col-6 p-0">
+                                <h5 class='company-tab-content'>{{job.Tab}}</h5>
+                                <!-- <h5 class="job-time">{{job.Date}}</h5> -->
+                              </div>
+                              
+                              <div>
+                                <!-- <h4 class='title-tab-content'>{{job.Title}} | <span class="company-tab-content">{{job.Tab}}</span></h4> -->
+                                <h5 class="job-time">{{job.Date}}</h5>
+                                <!-- {{job.Description | json}} -->
+                                <p *ngFor='let jobDescriptionParagraph of job.Description; let i = index' class="job-description"
+                                [innerHTML]="jobDescriptionParagraph | translate"></p>
+                                <span></span>
+                              </div>
+                          </div>
+                          <div>
+                              <!-- <ul class="more-proyects-skills">
+                                  <li *ngFor='let technology of project.Technologies'>
+                                    <span class="underline">{{technology}}</span>
+                                  </li>
+                              </ul> -->
+                          </div>
+                      </div>
+                  </div>
+              </div>
+
+          </div>
+      </div>
+  </div>
+</section>
